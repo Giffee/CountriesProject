@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CountryProject</string>
+    <string name="databasename">database</string>
+
+    <string name="summary">Summary:</string>
+    <string name="country_code">Country code:</string>
+    <string name="longitude">Longitude:</string>
+    <string name="latitude">Latitude:</string>
+    <string name="wikipedia_url">Wikipedia URL:</string>
+</resources>
